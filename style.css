@@ -1,0 +1,9 @@
+.foto-perfil {
+  border-radius: 100%;
+  max-width: 180px;
+  border: 2px solid darkolivegreen;
+}
+
+body{
+  background-color: cornsilk;
+}
